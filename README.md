@@ -11,7 +11,7 @@ This project will show EMA significant as a support by using Python.
 HOW:  Identify EMA indicator can be using as a support.
 HOW:  Identify strategy to use EMA to make profit. 
 
-## Dependencies
+# Dependencies
 
 Choose the latest versions of any of the dependencies below:
 * [pandas](https://pandas.pydata.org/)
