@@ -2,6 +2,7 @@
 
 How to start invest in stock market for a beginner? 
 This project choose EMA so proofing that Investor can use EMA to make a profit from stock market.
+more background, [Make a profit with EMA](https://docs.google.com/presentation/d/1adGG48ptRY3LAYgcUCzW7MRoqt8rKi8CFhnQ2Q9PFag/edit#slide=id.gbb551ab6de_0_10).
 
 # Why use EMA?
 It’s easy to understand and can apply using with all level of investors.
